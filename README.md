@@ -16,3 +16,8 @@
 * The code should be well documented with comments, have good code structure, and following naming conventions.
 
 * Push your code to your repository
+#pseudocode
+Print numbers 1-100 in console 
+Multiples of 3 = fizz
+Multiples of 5 = buzz
+Multiples of 3 & 5 = fizzbuzz
